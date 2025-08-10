@@ -1,2 +1,2 @@
 # sit746_code
-Code and scripts for my sit 746 thesis for reproducibility
+Code and scripts for my sit 746 thesis for reproducibility (to be added soon)
