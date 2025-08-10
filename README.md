@@ -9,3 +9,4 @@ In the case Yahoo Finance is down, I have uploaded all Excel files of all the OH
 
 You can directly import the Excel files into Python using pandas.
 
+'A Novel Convolutional Neural Networks for ddqn.pdf' is the pdf for the Cui et al (2023) baseline used in this paper for direct comparison.
