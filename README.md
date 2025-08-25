@@ -7,6 +7,6 @@
 
 In the case Yahoo Finance is down, I have uploaded all Excel files of all the OHCLV data used in this experiment.  
 
-You can directly import the Excel files into Python using pandas.
+You can directly import the Excel files into Python using pandas. The thesis will dictate which versions of each package was used.
 
 'A Novel Convolutional Neural Networks for ddqn.pdf' is the pdf for the Cui et al (2023) baseline used in this paper for direct comparison.
